@@ -1,1 +1,1 @@
-#c5f015 echo 'Hello World! 👋
+# echo 'Hello World! 👋
